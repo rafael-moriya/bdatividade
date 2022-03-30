@@ -1,0 +1,21 @@
+Rafael Moriya
+
+drop table tb_professores;
+create table tb_professores (
+nome varchar(100),
+sobrenome varchar(100),
+idade integer);
+
+
+
+drop table tb_disciplinas;
+create table tb_disciplinas(
+nome varchar(100);
+
+
+
+drop table tb_aluno;
+create table tb_aluno(
+nome varchar (100),
+sobrenome varchar (100)
+);
